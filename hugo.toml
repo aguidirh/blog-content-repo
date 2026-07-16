@@ -1,0 +1,7 @@
+baseURL = "https://blog.guidi.dev/"
+languageCode = "en-us"
+title = "guidi.dev"
+enableRobotsTXT = true
+
+[params]
+  description = "Notes on self-hosting, Kubernetes, and building things at home."
